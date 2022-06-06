@@ -1,5 +1,7 @@
 ![Screenshot](header.png)
 
-<!-- <p align="center" width="100%"> -->
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,css,html,ruby,rails)](https://skillicons.dev)
-<!-- </p> -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ruby,rails,nodejs,js,ts,python,heroku" />
+  </a>
+</p>
