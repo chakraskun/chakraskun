@@ -2,6 +2,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,nodejs,js,ts,python,heroku" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,nodejs,py,nextjs,tailwind,mongodb,postgres,heroku" />
   </a>
 </p>
