@@ -1,8 +1,7 @@
 <p align="center">
   <h1 align="center">Hi 👋, I'm Chakras Andika</h1>
-- 🌱 I’m currently learning **TensorFlow**
-
-- 📫 How to reach me **kuntjoro.chakras@gmail.com**
+  - 🌱 I’m currently learning **TensorFlow**
+  - 📫 How to reach me **kuntjoro.chakras@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
