@@ -9,5 +9,6 @@
 </p>
 
 <p  align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chakraskun&show_icons=true&locale=en&layout=compact&count_private=true" alt="chakraskun" />
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chakraskun&theme=monokai)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chakraskun&theme=monokai)
 </p>
