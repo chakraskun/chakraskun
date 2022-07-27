@@ -6,4 +6,4 @@
   </a>
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?email=chakrascoding101@gmail.com)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chakraskun)](https://github.com/anuraghazra/github-readme-stats)
