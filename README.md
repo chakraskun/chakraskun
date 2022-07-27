@@ -4,5 +4,6 @@
   <a href="">
     <img src="https://skillicons.dev/icons?i=ruby,rails,nodejs,py,nextjs,tailwind,mongodb,postgres,heroku" />
   </a>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chakraskun&count_private=true)
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chakraskun&count_private=true)
