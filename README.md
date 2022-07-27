@@ -9,6 +9,4 @@
 </p>
 
 <p  align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chakraskun&theme=monokai)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chakraskun&theme=monokai)
 </p>
