@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Hi 👋, I'm Chakras Andika</h1>
+  <h1 align="center">Hi 👋, I'm Chakras Andika Kuntjoro</h1>
 </p>
 
 <p align="center">
