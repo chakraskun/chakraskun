@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="">
+  <div>
     <img src="https://skillicons.dev/icons?i=ruby,rails,nestjs,react,py,nextjs,tailwind,mongodb,postgres,heroku" />
-  </a>
+  </div>
 </p>
 
 <p  align="center">
