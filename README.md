@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,nestjs,javascript,typescript,py,nextjs,tailwind,mongodb,postgres,aws" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,nestjs,typescript,py,nextjs,tailwind,mongodb,postgres,aws" />
   </a>
 </p>
 
